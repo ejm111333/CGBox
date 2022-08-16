@@ -1,0 +1,9 @@
+package cgbox.vo;
+
+public class FAQVO {
+
+	private int FAQ_NO;
+	private String FAQ_QUESTION;
+	private String FAQ_ANSWER;
+	private String FAQ_CATEGORY;
+}

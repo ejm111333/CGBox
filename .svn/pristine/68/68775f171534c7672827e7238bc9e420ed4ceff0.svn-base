@@ -1,0 +1,14 @@
+package cgbox.vo;
+
+public class MovieVO {
+
+	private String MOVIE_NO       ;
+	private String MOVIE_NAME     ;
+	private String MOVIE_OPEN     ;
+	private String MOVIE_SUMMARY  ;
+	private int MOVIE_GRADE    ;
+	private String MOVIE_RUNNING  ;
+	private int MOVIE_AUDIENCE ;
+	private int MOVIE_TRAILER  ;
+	private String MOVIE_LINK     ;
+}

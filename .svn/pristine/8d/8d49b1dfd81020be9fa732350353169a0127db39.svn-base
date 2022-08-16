@@ -1,0 +1,10 @@
+package reserve.service;
+
+import java.util.List;
+
+import vo.ReserveVO;
+
+public interface IReserveService {
+	public void insertNew(ReserveVO vo);
+	public List<ReserveVO> selectReserveByTicket(int tno);
+}

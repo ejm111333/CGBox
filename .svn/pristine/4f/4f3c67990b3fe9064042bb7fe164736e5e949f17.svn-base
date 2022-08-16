@@ -1,0 +1,9 @@
+package cgbox.service;
+
+
+
+public interface IFAQService {
+
+	
+	
+}

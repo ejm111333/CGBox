@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMapConfig 
+	PUBLIC "-//iBATIS.com//DTD SQL Map Config 2.0//EN"
+     "http://ibatis.apache.org/dtd/sql-map-config-2.dtd">
+
+
+<!--  이 xml문서는 ibatis에 대한 환경을 설정하는 문서이다. -->
+
+<sqlMapConfig>
+	
+ 	<properties resource="kr/or/ddit/ibatis/config/dbinfo.properties"/>
+ 
+ 	 <settings useStatementNamespaces = "true"/>
+ 	 
+	
+ 	 
+ 	 <typeAlias alias="memberVO" type="vo.MemberVO" />
+ 	 <typeAlias alias="nonMemberVO" type="vo.NonMemberVO" />
+ 	 <typeAlias alias="mtheaterVO" type="vo.MTheaterVO" />
+ 	 <typeAlias alias="movieVO" type="vo.MovieVO" />
+ 	 <typeAlias alias="screenVO" type="vo.ScreenVO" />
+ 	 <typeAlias alias="theaterVO" type="vo.TheaterVO" />
+ 	 <typeAlias alias="seatVO" type="vo.SeatVO" />
+ 	 <typeAlias alias="ticketVO" type="vo.TicketVO" />
+ 	 <typeAlias alias="reserveVO" type="vo.ReserveVO" />
+ 
+ 	  <transactionManager type="JDBC">
+ 	  	<dataSource type="SIMPLE">
+ 	  		<property name="JDBC.Driver" value="${driver}"/>
+ 	  		<property name="JDBC.ConnectionURL" value="${url}"/>
+ 	  		<property name="JDBC.Username" value="${user}"/>
+ 	  		<property name="JDBC.Password" value="${pass}"/>
+ 	  	</dataSource>
+ 	  </transactionManager>
+	
+	 <!--현의-->
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/member.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/nonmember.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/mtheater.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/movie.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/screen.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/theater.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/seat.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/ticket.xml"/> 	
+	 <sqlMap resource="kr/or/ddit/ibatis/mapping/reserve.xml"/> 	
+
+</sqlMapConfig>
+

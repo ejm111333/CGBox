@@ -55,21 +55,7 @@
   
 </div>
   
-  
-  <br>
 
-  
-
-### Member
-
-| <img src="https://avatars.githubusercontent.com/honey7734" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/TAEPAPER" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/lolll0" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/ejm111333" style="width:50px;"> | <img src="https://avatars.githubusercontent.com/hj300" style="width:50px;"> |
-| :--------------: | :------------------------------------------------:  | :------------------------------------------------:  | :------------------------------------------------:  | :------------------------------------------------: |
-  |     <a href="https://github.com/honey7734">**Honey**</a>     |   <a href="https://github.com/TAEPAPER">**TAEPAPER**</a>  |   <a href="https://github.com/lolll0">**lolll0**</a>  | <a href="https://github.com/ejm111333">**ejm111333**</a> | <a href="https://github.com/hj300">**hj300**</a> |
-|     PL     |     AA     |     TA     |     DA     |     UA     |
-
-
-
-  
 
   <br>
 

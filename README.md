@@ -86,8 +86,8 @@
 
 ### View
 
-<p align="center"> <img src="https://github.com/ejm111333/CGBox/assets/66450798/43fd4cc4-a217-4fa2-a687-b423d1ce7218)https://github.com/ejm111333/CGBox/assets/66450798/43fd4cc4-a217-4fa2-a687-b423d1ce7218"> </p>
-
+<p align="center"> <img src="https://github.com/ejm111333/CGBox/assets/66450798/43fd4cc4-a217-4fa2-a687-b423d1ce7218"> 
+</p>
 <p align="center"> <img src="https://github.com/ejm111333/CGBox/assets/66450798/1152ce06-aacf-4dbe-94cb-952c9c6a02cc">
 </p>
 <p align="center"> <img src="https://github.com/ejm111333/CGBox/assets/66450798/d3f9d91e-a074-486c-b17f-a244fb14b7b7">

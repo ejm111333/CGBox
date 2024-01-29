@@ -86,4 +86,4 @@
 
 ### View
 
-<p align="center"> <img src="[이미지URL](https://github.com/ejm111333/CGBox/assets/66450798/43fd4cc4-a217-4fa2-a687-b423d1ce7218)https://github.com/ejm111333/CGBox/assets/66450798/43fd4cc4-a217-4fa2-a687-b423d1ce7218"> </p>
+<p align="center"> <img src="https://github.com/ejm111333/CGBox/assets/66450798/43fd4cc4-a217-4fa2-a687-b423d1ce7218)https://github.com/ejm111333/CGBox/assets/66450798/43fd4cc4-a217-4fa2-a687-b423d1ce7218"> </p>
